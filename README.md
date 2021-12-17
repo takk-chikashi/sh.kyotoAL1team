@@ -1,4 +1,3 @@
-# sh.kyotoAL1team
 <!DOCTYPE html>
 <html lang="ja">
 <head>
